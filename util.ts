@@ -3,7 +3,7 @@ import {Platform} from 'react-native';
 import {Toast} from 'react-native-toast-message/lib/src/Toast';
 import config from './configure';
 
-export const EXAMPLE_REACTNATIVE_VERSION = '0.68.2';
+export const EXAMPLE_REACTNATIVE_VERSION = '0.71.8';
 
 export const init = (manualTracking: boolean = false) => {
   let installConfig = {

@@ -1,4 +1,4 @@
-# [Your Project Name]
+# Helpshift In React Native App
 
 This project integrates Helpshift SDK to provide in-app customer support and chat functionalities.
 
